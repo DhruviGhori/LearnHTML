@@ -1,0 +1,33 @@
+/* h1
+{
+    color: bisque;
+    font-style: oblique;
+} */
+
+.modules {
+       /* font-family: serif; With Sharpness  */
+    /* font-family: sans-serif; Without Sharpness */
+    /* font-family: monospace; same width */
+    /* font-family: cursive; human writing */
+    /* font-family: fantasy; highlight font */
+}
+
+h1{
+    color: lightpink;
+    font-size: x-large;
+    /* font-family: cursive; */
+    /* font-family: monospace; */
+    /* font-family: sans-serif; */
+    /* font-family: serif; */
+}
+#first
+{
+    color: brown ;
+    text-indent: 30pt;
+    /* word-spacing: 20px; */
+    /* letter-spacing: 2px; */
+
+    /* text-transform: lowercase; */
+    /* text-transform: uppercase; */
+       text-transform: capitalize;
+}
